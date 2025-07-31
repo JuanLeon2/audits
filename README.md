@@ -3,7 +3,8 @@
 ## Avalanchego
 
 - [OpenZeppelin MerkleDB Audit (March 14th 2023)](./avalanchego/Ava_Labs_MerkleDB_Audit.pdf)
-
+- [Trail of Bits AvalancheGo Audit (July 21st 2025](./avalanchego/Ava_Labs_AvalancheGo_ToB_2025-07-21.pdf)
+  
 ## AvalancheJS
 
 - [Least Authority Audit v4.0 (originally developed as AvalancheJS-v2) (March 26th 2024)](./avalanchejs/AvalancheJS-v4_Audit_Least_Authority_March_2024.pdf)
