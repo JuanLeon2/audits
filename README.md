@@ -3,7 +3,7 @@
 ## Avalanchego
 
 - [OpenZeppelin MerkleDB Audit (March 14th 2023)](./avalanchego/Ava_Labs_MerkleDB_Audit.pdf)
-- [Trail of Bits AvalancheGo Audit (July 21st 2025](./avalanchego/Ava_Labs_AvalancheGo_ToB_2025-07-21.pdf)
+- [Trail of Bits AvalancheGo Audit (July 21st 2025)](./avalanchego/Ava_Labs_AvalancheGo_ToB_2025-07-21.pdf)
   
 ## AvalancheJS
 
